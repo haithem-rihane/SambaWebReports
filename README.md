@@ -10,7 +10,7 @@ You can download it from here: https://www.microsoft.com/en-us/download/details.
 Also a tutorial for migrating and installing SQL Server 2012 can be found here:<br>
 https://forum.sambapos.com/t/how-to-migrate-from-sql-compact-edition-sdf-file-to-sql-server-2012-express/752
 
-<b>3. Wamp Server</b><br>
+<b>3. Wamp Server 32 Bit</b><br>
 You can download it from here: http://www.wampserver.com/en/
 
 <b>4. Microsoft Drivers for PHP for SQL Server</b><br>
